@@ -1,0 +1,10 @@
+[
+  {
+    "image": "1.jpg",
+    "annotation": "1.txt"
+  },
+  {
+    "image": "2.jpg",
+    "annotation": "2.txt"
+  }
+]
